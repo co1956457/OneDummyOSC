@@ -185,7 +185,7 @@ VirtualCastのタイトル画面で「VCI」メニュー内の「OSC受信機能
      ```
 
 ## VCIの取得
-「わんレシーブ (OSC) One Receive」は [VirtualCastで公開中の商品ページ](https://virtualcast.jp/users/100215#products) から取得できます。  
+「わんレシーブ (OSC) One Receive」は [VirtualCastで公開中の商品ページ](https://virtualcast.jp/users/100215/products) から取得できます。  
 
 ## ライセンス
 このプログラムは MIT ライセンスのもとで公開されています。  
@@ -378,7 +378,7 @@ This tool conforms to the data format actually sent by the "VirtualCast Official
      ```
 
 ## Obtaining the VCI
-"わんレシーブ (OSC) One Receive" can be obtained from the [My product page on VirtualCast](https://virtualcast.jp/users/100215#products).  
+"わんレシーブ (OSC) One Receive" can be obtained from the [My product page on VirtualCast](https://virtualcast.jp/users/100215/products).  
 
 ## License
 This program is released under the MIT License.  
